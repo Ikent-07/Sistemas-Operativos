@@ -1,6 +1,6 @@
 #Tema 1. Definiciones
 
-##**Que es un sistema operativo'**
+##**Que es un sistema operativo**
 No existe una definicion universal de sistema operativo; se define mejor por lo que hace que por lo que es
 La definicion "El programa que se ejecuta constantemente en el ordenador": en realidad lo que se ejecuta continuamente es el kernel o nucleo. Falla porque:
 - Excluye servicios que intuitivamente son parte del SO
