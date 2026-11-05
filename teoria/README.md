@@ -27,10 +27,13 @@ Persepectiva del usuario (varia segun el sistema, poco precisa);
 - Ejecucion de programas (iniciar, detener, multitarea...)
 
 En escritorio, mainframe y sistemas empotrados el SO siempre tiene las mismas funciones; lo que cambia es como las implementa segun los objetivos del diseño
-| :Escritorio:| :Facilidad de uso: |
-| :Mainframe: | :Aprovechamiento de recursos: |
-| :Sistemas empotrados: | :Fiabilidad: |
 
+```markdown
+|:---:|:---:|:---:|
+| Escritorio | Facilidad de uso |
+| Mainframe | Aprovechamiento de recursos |
+| Sistemas empotrados | Fiabilidad |
+```
 # Tema 2. Tipos de sistemas operativos
 
 ## Mainframe
