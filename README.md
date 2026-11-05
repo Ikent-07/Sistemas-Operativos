@@ -1,2 +1,1 @@
-# Sistemas-Operativos
-Asignatura mid
+
